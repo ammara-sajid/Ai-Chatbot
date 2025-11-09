@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot Android Application – PARCO Project
+# 🤖 AI Chatbot Android Application
 
 This project is an **AI-powered chatbot Android application** developed for **PARCO (Pak-Arab Refinery Company)**.  
 The chatbot integrates a **Flask backend**, **GPT4All** (local AI model), and **Pinecone vector database** to provide **contextual and intelligent conversational responses** through a **Flutter-based mobile interface**.
